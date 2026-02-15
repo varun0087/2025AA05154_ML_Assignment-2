@@ -37,9 +37,6 @@ All four price ranges are equally balanced with 500 samples each:
 ![Models Evaluation](./images/Models%20Evaluation.jpeg)
 
 
-# Model Performance Observations
-
-## Models Used
 
 ### Model Comparison Table
 
