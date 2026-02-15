@@ -110,7 +110,7 @@ scaler = load_scaler()
 
 # Title - More compact
 st.markdown('<h1 class="main-title">Mobile Price Classification</h1>', unsafe_allow_html=True)
-st.markdown('<p class="subtitle">ML Assignment 2 • M.Tech (AIML/DSE) • BITS Pilani</p>', unsafe_allow_html=True)
+st.markdown('<p class="subtitle">2025AA05154 ML Assignment-2</p>', unsafe_allow_html=True)
 
 # Sidebar - Clean and minimal
 with st.sidebar:
